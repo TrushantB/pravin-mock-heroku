@@ -1090,63 +1090,63 @@
      "id":1,
      "userId": 2,
      "objectCount": 1020,
-     "timeSpan": 8,
+     "timeSpent": 8,
      "projectId":1
    },
    {
-     "id":1,
+     "id":2,
      "userId": 3,
      "objectCount": 10000,
-     "timeSpan": 7,
+     "timeSpent": 7,
      "projectId":1
    },
    {
-     "id":1,
+     "id":3,
      "userId": 1,
      "objectCount": 17000,
-     "timeSpan": 4,
+     "timeSpent": 4,
      "projectId":1
    },
    {
-     "id":1,
+     "id":4,
      "userId": 2,
      "objectCount": 15002,
-     "timeSpan": 8,
+     "timeSpent": 8,
      "projectId":2
    },
    {
-     "id":1,
+     "id":5,
      "userId": 3,
      "objectCount": 10000,
-     "timeSpan": 7,
+     "timeSpent": 7,
      "projectId":2
    },
    {
-     "id":1,
+     "id":6,
      "userId": 1,
      "objectCount": 8000,
-     "timeSpan": 4,
+     "timeSpent": 4,
      "projectId":2
    },
    {
-     "id":1,
+     "id":7,
      "userId": 2,
      "objectCount": 4500,
-     "timeSpan": 8,
+     "timeSpent": 8,
      "projectId":3
    },
    {
-     "id":1,
+     "id":8,
      "userId": 3,
      "objectCount": 2000,
-     "timeSpan": 7,
+     "timeSpent": 7,
      "projectId":3
    },
    {
-     "id":1,
+     "id":9,
      "userId": 1,
      "objectCount": 15004,
-     "timeSpan": 4,
+     "timeSpent": 4,
      "projectId":3
    }
  ],
