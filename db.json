@@ -640,34 +640,6 @@
      "objectCount": 10000,
      "timeSpent": 7,
      "projectId":2
-   },
-   {
-     "id":6,
-     "userId": 1,
-     "objectCount": 8000,
-     "timeSpent": 4,
-     "projectId":2
-   },
-   {
-     "id":7,
-     "userId": 2,
-     "objectCount": 4500,
-     "timeSpent": 8,
-     "projectId":3
-   },
-   {
-     "id":8,
-     "userId": 3,
-     "objectCount": 2000,
-     "timeSpent": 7,
-     "projectId":3
-   },
-   {
-     "id":9,
-     "userId": 1,
-     "objectCount": 15004,
-     "timeSpent": 4,
-     "projectId":3
    }
  ],
  "UserResourceData": [
