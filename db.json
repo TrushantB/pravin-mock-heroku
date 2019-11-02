@@ -471,9 +471,34 @@
       "createdBy": "Admin"
     }
   ],
-  "Category": [ ],
-  "Attributes": [ ],
-  "AttributesDetails": [ ],
+  "Category": [
+  {
+    "projectId": 1,
+    "categoryName": "B",
+    "active": 1,
+    "createdDate": "2/11/2019",
+    "createdBy": "Admin",
+    "isDelete": 0,
+    "deletedDate": "",
+    "deletedBy": "",
+    "id": 1
+  }
+  ],
+  "Attributes": [
+  {
+    "categoryId": 1,
+    "projectId": 1,
+    "active": 1,
+    "attributeName": "P",
+    "createdDate": "2/11/2019",
+    "createdBy": "Admin",
+    "isDelete": 0,
+    "deletedDate": "",
+    "deletedBy": "",
+    "id": 1
+   }
+  ],
+  "AttributesDetails": [],
   "AccountInfo": [
     {
       "username": "Admin ",
