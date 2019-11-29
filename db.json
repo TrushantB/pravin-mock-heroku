@@ -593,6 +593,32 @@
       "deletedDate": 0
     }
   ],
+  "ExportData":[
+      {
+        "id":1,
+        "key" : "json",
+        "name" : "JSON",
+        "folderName":"COCO_JSON"
+      },
+      {
+        "id":2,
+        "key" : "csv", 
+        "name" : "CSV",
+        "folderName":"CSV"
+      },
+      {
+        "id":3,
+        "key" : "xml", 
+        "name" : "XML",
+        "folderName":"VOC_XML"
+      },
+      {
+        "id":4,
+        "key" : "text", 
+        "name" : "TEXT",
+        "folderName":"YOLO_TXT"
+      }
+  ],
   "ResourcesData": [
    {
      "id":1,
