@@ -764,5 +764,92 @@
       "createdDate":"17/9/2019"
     }
   ],
-  "UserResources":[]
+  "UserResources":[],
+  "Menus":[
+    {
+      "id":1,
+      "menuName":"Projects",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1  
+    },
+    {
+      "id":2,
+      "menuName":"Dataset",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1   
+    },
+    {
+      "id":2,
+      "menuName":"Categories",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+
+    },
+    {
+      "id":1,
+      "menuName":"Processing",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1  
+    },
+    {
+      "id":1,
+      "menuName":"Annotation",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+    },
+    {
+      "id":1,
+      "menuName":"Attribute",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+    },
+    {
+      "id":1,
+      "menuName":"Time Analysis",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+    },
+    {
+      "id":1,
+      "menuName":"Resources",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+    },
+    {
+      "id":1,
+      "menuName":"Ststistics",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+    },
+    {
+      "id":1,
+      "menuName":"Export Data",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+    },
+    {
+      "id":1,
+      "menuName":"Import Data",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1    
+    },
+    {
+      "id":1,
+      "menuName":"System",
+      "createdDate":"17/9/2019",
+      "createdBy":"Admin",
+      "active":1   
+    }
+  ]
 }
