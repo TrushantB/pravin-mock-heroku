@@ -737,5 +737,28 @@
       "createdDate": "17/9/2019",
       "createdBy": "Admin"
     }
-  ]
+  ],
+  "UserRoles":[
+    {
+      "id":1,
+      "roleName":"Super Admin",
+      "createdDate":"17/9/2019"
+    },
+    {
+      "id":2,
+      "roleName":"Project Manager",
+      "createdDate":"17/9/2019"
+    },
+    {
+      "id":3,
+      "name":"Quality Analyst",
+      "createdDate":"17/9/2019"
+    },
+    {
+      "id":4,
+      "roleName":"Annotator",
+      "createdDate":"17/9/2019"
+    }
+  ],
+  "UserResources":[]
 }
