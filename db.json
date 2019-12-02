@@ -741,21 +741,25 @@
   "UserRoles":[
     {
       "id":1,
+      "projectId":1,
       "roleName":"Super Admin",
       "createdDate":"17/9/2019"
     },
     {
       "id":2,
+      "projectId":1,
       "roleName":"Project Manager",
       "createdDate":"17/9/2019"
     },
     {
       "id":3,
+      "projectId":2,
       "name":"Quality Analyst",
       "createdDate":"17/9/2019"
     },
     {
       "id":4,
+      "projectId":2,
       "roleName":"Annotator",
       "createdDate":"17/9/2019"
     }
