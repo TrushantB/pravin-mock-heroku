@@ -781,7 +781,7 @@
       "active":0  
     },
     {
-      "id":2,
+      "id":3,
       "menuName":"Categories",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
@@ -789,63 +789,63 @@
 
     },
     {
-      "id":1,
+      "id":4,
       "menuName":"Processing",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0  
     },
     {
-      "id":1,
+      "id":5,
       "menuName":"Annotation",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0    
     },
     {
-      "id":1,
+      "id":6,
       "menuName":"Attribute",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0    
     },
     {
-      "id":1,
+      "id":7,
       "menuName":"Time Analysis",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0   
     },
     {
-      "id":1,
+      "id":8,
       "menuName":"Resources",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0   
     },
     {
-      "id":1,
+      "id":9,
       "menuName":"Ststistics",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0    
     },
     {
-      "id":1,
+      "id":10,
       "menuName":"Export Data",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0    
     },
     {
-      "id":1,
+      "id":11,
       "menuName":"Import Data",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
       "active":0    
     },
     {
-      "id":1,
+      "id":12,
       "menuName":"System",
       "createdDate":"17/9/2019",
       "createdBy":"Admin",
