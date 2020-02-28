@@ -676,6 +676,10 @@
     {
       "id": 4,
       "modelName": "Mask R-CNN"
+    },
+    {
+      "id": 5,
+      "modelName": "Mask D-CNN"
     }
   ],
   "Processing": [],
