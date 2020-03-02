@@ -875,5 +875,23 @@
   ],
   "ImportData":[],
   "ExportSummary":[],
-  "ExportAnnotation":[]
+  "ExportAnnotation":[],
+  "TimeAnalysis":[
+    {
+      "id":1,
+      "days":125,
+      "hours":30,
+      "minutes":50,
+      "seconds":20,
+      "projectId:"1"
+    },
+    {
+      "id":2,
+      "days":125,
+      "hours":30,
+      "minutes":50,
+      "seconds":20,
+      "projectId:"1"
+    }
+  ]
 }
