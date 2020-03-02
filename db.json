@@ -883,7 +883,7 @@
       "hours":30,
       "minutes":50,
       "seconds":20,
-      "projectId:"1"
+      "projectId":"1"
     },
     {
       "id":2,
@@ -891,7 +891,7 @@
       "hours":30,
       "minutes":50,
       "seconds":20,
-      "projectId:"1"
+      "projectId":"2"
     }
   ]
 }
