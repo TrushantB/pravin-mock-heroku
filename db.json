@@ -893,5 +893,36 @@
       "seconds":10,
       "projectId":"2"
     }
+  ],
+  "Help":[
+		{
+			"id": 1,
+			"question": "Minimum Image Size?",
+			"answer": "512X512"
+		},
+		{
+			"id": 2,
+			"question": "Number of images can upload?",
+			"answer": "unlimited"
+		},
+		{
+			"id": 3,
+			"question": "Can we change the size of image",
+			"answer": "Yes"
+		}
+  ],
+  "Notification":[
+    {
+      "id":1,
+      "message":"Upadte is available"
+    },
+    {
+      "id":2,
+      "message":"You are successfully login"
+    },
+    {
+      "id":3,
+      "message":"Anotate remaining"
+    }
   ]
 }
