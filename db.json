@@ -456,47 +456,7 @@
    }
   ],
   "AttributesDetails": [],
-  "AccountInfo": [
-    {
-      "projectId": 1,
-      "username": "Admin ",
-      "firstName": "Trushant",
-      "lastName": "Bhangre",
-      "email": "trushant@gmail.com",
-      "password": "123",
-      "accountType": "Manager",
-      "objectCount": 3211,
-      "timeSpent": 5,
-      "status": 1,
-      "id": 1
-    },
-    {
-      "projectId": 1,
-      "username": "Master",
-      "firstName": "Rahul",
-      "lastName": "Rawade",
-      "email": "rahul@gmail.com",
-      "password": "111",
-      "accountType": "Manager",
-      "objectCount": 9403,
-      "timeSpent": 5,
-      "status": 1,
-      "id": 2
-    },
-    {
-      "projectId": 1,
-      "username": "User",
-      "firstName": "Pravin",
-      "lastName": "Jadhav",
-      "email": "pravin@gmail.com",
-      "password": "222",
-      "accountType": "User",
-      "objectCount": 4332,
-      "timeSpent": 8,
-      "status": 1,
-      "id": 3
-    }
-  ],
+  "AccountInfo": [],
   
   "ImportImages": [
     {
