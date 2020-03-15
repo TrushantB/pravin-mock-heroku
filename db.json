@@ -2,6 +2,7 @@
   "weather":[
     {
       "id":1,
+      "time":3.06,
       "tempr":4.3,
       "humidity":5.5,
       "status":0
