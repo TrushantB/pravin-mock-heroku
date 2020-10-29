@@ -169,33 +169,33 @@
       "id": 1,
       "name": "Fruits",
       "key": "fruits",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision%20(4).png?alt=media&token=71ef5590-ea5f-43b4-bd64-33a04ab410bf"
+      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/category.jpg?alt=media&token=a7105f9f-dd8b-4da4-987d-573faad043e2"
     },
     {
       "id": 2,
       "name": "Vegitables",
       "key": "vegitables",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision%20(5).png?alt=media&token=35613581-d77c-4da9-be73-5a4ffdba06ca"
+      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/category.jpg?alt=media&token=a7105f9f-dd8b-4da4-987d-573faad043e2"
     },
     {
       "id": 3,
       "name": "Bakery",
       "key": "bakery",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision%20(6).png?alt=media&token=9cf258cc-cef1-4fbb-8bf9-88f890f2db47"
+      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/category.jpg?alt=media&token=a7105f9f-dd8b-4da4-987d-573faad043e2"
 
     },
     {
       "id": 4,
       "name": "Dairy",
       "key": "dairy",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision%20(7).png?alt=media&token=07e3f46b-717a-4b9d-bc35-2616be55a65e"
+      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/category.jpg?alt=media&token=a7105f9f-dd8b-4da4-987d-573faad043e2"
 
     },
     {
       "id": 5,
       "name": "Handmade Cards",
       "key": "handmade_cards",
-      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision%20(7).png?alt=media&token=07e3f46b-717a-4b9d-bc35-2616be55a65e"
+      "image": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/category.jpg?alt=media&token=a7105f9f-dd8b-4da4-987d-573faad043e2"
     }
    ]
 }
