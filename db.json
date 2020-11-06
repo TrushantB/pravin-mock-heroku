@@ -170,7 +170,7 @@
       "categoryId": 5,
       "category":"wildflower",
       "seller": "XYZ Farm",
-      "price": 31,
+      "price": 36,
       "type":"banner_product",
       "subtitle": "1kg aroung 16 pieces",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble."
@@ -183,7 +183,7 @@
       "categoryId": 5,
       "category":"wildflower",
       "seller": "XYZ Farm",
-      "price": 32,
+      "price": 40,
       "type":"banner_product",
       "subtitle": "Greeting Cards",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble."
@@ -195,9 +195,9 @@
       "categoryId": 4,
       "seller": "XYZ Farm",
       "category":"wildflower",
-      "price": 32,
+      "price": 60,
       "type":"banner_product",
-      "subtitle": "1kg aroung 5 pieces",
+      "subtitle": "2kg aroung 5 pieces",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble."
     },
     {
@@ -207,9 +207,9 @@
       "categoryId": 2,
       "seller": "XYZ Farm",
       "category":"wildflower",
-      "price": 32,
+      "price": 60,
       "type":"banner_product",
-      "subtitle": "1kg aroung 5 pieces",
+      "subtitle": "2kg aroung 5 pieces",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble."
     }
   ],
