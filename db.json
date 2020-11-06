@@ -43,8 +43,19 @@
       "price": 32,
       "type":"feature_product",
       "subtitle": "1kg aroung 16 pieces",
+      "images" : [
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision.png?alt=media&token=d7c4b95a-7991-404d-b97b-961c97ac8690"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision%20(2).png?alt=media&token=bdcfcb68-37ca-4ec2-a9ac-9d1a0ebf52d9"
+        },
+        {
+          "src": "https://firebasestorage.googleapis.com/v0/b/myapp-281407.appspot.com/o/FlipFairy-Preview-Mode-InVision.png?alt=media&token=d7c4b95a-7991-404d-b97b-961c97ac8690"
+        }
+        
+      ],
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scramble."
-  
     },
     {
       "id": "12",
