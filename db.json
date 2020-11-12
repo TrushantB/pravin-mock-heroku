@@ -408,5 +408,55 @@
       "password": "123",
       "email": "email@email.com"
     }
+  ],
+"Address": [
+    {
+      "name": "a b",
+      "address": "c",
+      "alternative_address": "d",
+      "country": "india",
+      "city": "e",
+      "state": "mumbai",
+      "zip_cide": "123",
+      "id": 1,
+      "userId": ""
+    },
+    {
+      "name": "a b",
+      "address": "c",
+      "alternative_address": "d",
+      "country": "india",
+      "city": "e",
+      "state": "mumbai",
+      "zip_cide": "123",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "card": [
+    {
+      "name": "ganesh",
+      "card_number": "123",
+      "exp_date": "2020-11-20",
+      "cvv": "134",
+      "id": 1,
+      "userId": ""
+    },
+    {
+      "name": "yogesh",
+      "card_number": "12345",
+      "exp_date": "2020-11-29",
+      "cvv": "332",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "card_number": "4321",
+      "exp_date": "2020-11-17",
+      "cvv": "111",
+      "userId": 2,
+      "id": 3
+    }
   ]
 }
